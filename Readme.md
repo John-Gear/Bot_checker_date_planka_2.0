@@ -2,9 +2,9 @@
 
 ## Description
 
-This Telegram bot is designed to fetch information about cards in **Planka version 2.0** for a specific date. It helps you easily stay on top of your assigned tasks and never miss anything important — even if you have many boards and projects. Just press a button in the bot to instantly receive an up-to-date list of tasks for today, tomorrow, or the upcoming week — even if you're managing 10 projects and 100 boards.
+This Telegram bot is designed to fetch information about cards in [Planka](https://github.com/plankanban/planka) **version 2.0** for a specific date. It helps you easily stay on top of your assigned tasks and never miss anything important — even if you have many boards and projects. Just press a button in the bot to instantly receive an up-to-date list of tasks for today, tomorrow, or the upcoming week — even if you're managing 10 projects and 100 boards.
 
-If you're using **Planka version 1.x**, check out the [legacy branch](https://github.com/garpastyls/bot_checker_date_planka/tree/legacy).
+If you're using **Planka version 1.x**, check out the [Bot_checker_date_planka](https://github.com/john-gear/bot_checker_date_planka).
 
 ### Features:
 
